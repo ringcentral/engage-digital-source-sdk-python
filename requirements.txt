@@ -1,0 +1,3 @@
+pydash
+flask
+python-dotenv

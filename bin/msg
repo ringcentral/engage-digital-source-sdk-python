@@ -1,0 +1,4 @@
+#!/bin/bash
+cd `dirname $0`
+cd ..
+python post_message_demo/post_message_demo.py

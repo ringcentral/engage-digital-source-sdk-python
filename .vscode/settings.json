@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "venv/bin/python",
+  "python.autoComplete.extraPaths": ["./ringcentral_engage_digital_source_sdk"]
+}
